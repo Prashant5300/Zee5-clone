@@ -14,17 +14,7 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
 </p>
 
-<h4 align="center">Deployed On:</h4>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />
-</p>
-
-<h3 align="center"><a href="https://zee5-clone-roshan.netlify.app/"><strong>Want to see live preview »</strong></a></h3>
-
-<h3 align="center"><a href=""><strong>Demo Video »</strong></a></h3>
-
-<br />
 
 <!-- <p align="center">
   <br />&#10023;
